@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tolentinocs
+- 👀 I’m Fronted Developer
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to be Full Stack
+- 📫 You can contact me on twitter @tolentinocs
